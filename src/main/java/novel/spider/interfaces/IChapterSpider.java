@@ -6,7 +6,7 @@ import novel.spider.entitys.Chapter;
 
 public interface IChapterSpider {
 	/**
-	 * 给我们一个完整的url，我们就给你返回所有的章节列表
+	 * 缁欐垜浠竴涓畬鏁寸殑url锛屾垜浠氨缁欎綘杩斿洖鎵�鏈夌殑绔犺妭鍒楄〃
 	 * @param url
 	 * @return
 	 */

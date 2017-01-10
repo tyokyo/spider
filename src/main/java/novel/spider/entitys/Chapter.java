@@ -3,9 +3,9 @@ package novel.spider.entitys;
 import java.io.Serializable;
 
 /**
- * Ğ¡ËµµÄÕÂ½ÚÊµÌå
+ * å°è¯´çš„ç« èŠ‚å®ä½“
  * @author LiuKeFeng
- * @date   2016Äê10ÔÂ8ÈÕ
+ * @date   2016å¹´10æœˆ8æ—¥
  */
 public class Chapter implements Serializable {
 	private static final long serialVersionUID = -7574082095190014403L;
